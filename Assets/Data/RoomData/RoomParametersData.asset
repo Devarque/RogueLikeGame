@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6dcf671e02fdc4e88e803ec17bc61c, type: 3}
+  m_Name: RoomParametersData
+  m_EditorClassIdentifier: 
+  maxIterations: 13
+  minIterations: 7
+  maxWalkLength: 75
+  minWalkLength: 65
+  floorTiles:
+  - {fileID: 11400000, guid: a0ed919fe244ff14d812d8001c04d6a7, type: 2}
+  - {fileID: 11400000, guid: 27fa60f831e789b418aa342c1f8de2ab, type: 2}
+  - {fileID: 11400000, guid: eef71d83d620dea4983834b279b744da, type: 2}
+  - {fileID: 11400000, guid: 368121fdccfa34c4abf6d505a7a25ae5, type: 2}
+  wallTiles:
+  - {fileID: 11400000, guid: 22c9f328675568942a63b2770a6a63dc, type: 2}
+  - {fileID: 11400000, guid: 22c9f328675568942a63b2770a6a63dc, type: 2}
+  - {fileID: 11400000, guid: 22c9f328675568942a63b2770a6a63dc, type: 2}
+  - {fileID: 11400000, guid: 22c9f328675568942a63b2770a6a63dc, type: 2}

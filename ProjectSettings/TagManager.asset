@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - FloorTile
+  - WallFloorCorridor
+  - Enemy
+  - Wall
+  - PlayerBullet
+  - Breakable
+  - Pickup
+  - GunHand
+  - BodyParts
+  - DoorLR
+  - DoorUD
+  - Room
+  - RoomFloor
+  - RoomWall
+  - RoomMask
+  - Ammo
+  - Market
+  - Enemy_Bullet
+  - Player_Bullet
+  - Weapon
+  - Box
+  - BrokenBoxPiece
+  - Coin
+  - Potion
+  - WeaponPickup
+  - StaticObstacle
+  - Teleporter
+  - Key
+  - shadow_caster_room
+  - shadow_caster_corridor
+  - BossTag
+  - BossRoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Player_Bullet
+  - Enemies
+  - Enemy_bullet
+  - Mask
+  - Potion
+  - Pickups
+  - Room
+  - RoomWall
+  - RoomFloor
+  - RoomMask
+  - Door
+  - Market
+  - Weapon
+  - Box
+  - Coin
+  - WeaponPickup
+  - StaticObstacle
+  - Teleporter
+  - PosHolder
+  - BossBullet
+  - BossRoom
+  - THEBOSS
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1422392085
+    locked: 0
+  - name: Teleporter
+    uniqueID: 3002373439
+    locked: 0
+  - name: BossTp
+    uniqueID: 1184255323
+    locked: 0
+  - name: Pickups
+    uniqueID: 2967415323
+    locked: 0
+  - name: StaticObstacle
+    uniqueID: 2390156587
+    locked: 0
+  - name: Coin
+    uniqueID: 4281529531
+    locked: 0
+  - name: Wall
+    uniqueID: 818630153
+    locked: 0
+  - name: Market
+    uniqueID: 1109916053
+    locked: 0
+  - name: Box
+    uniqueID: 4155326467
+    locked: 0
+  - name: Player
+    uniqueID: 2848062115
+    locked: 0
+  - name: Player Body
+    uniqueID: 4031883665
+    locked: 0
+  - name: Player Bullet
+    uniqueID: 3879795005
+    locked: 0
+  - name: Enemy Body
+    uniqueID: 2891412289
+    locked: 0
+  - name: Enemy Bullet
+    uniqueID: 1988843115
+    locked: 0
+  - name: Weapon
+    uniqueID: 3205369345
+    locked: 0
+  - name: Hand
+    uniqueID: 3543812193
+    locked: 0
+  - name: Door
+    uniqueID: 2537979821
+    locked: 0
+  - name: Reticle
+    uniqueID: 4216031827
+    locked: 0
+  - name: PosHolder
+    uniqueID: 2912318693
+    locked: 0
+  - name: Mask
+    uniqueID: 2545100675
+    locked: 0
+  - name: Boss
+    uniqueID: 1194820525
+    locked: 0
